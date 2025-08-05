@@ -45,7 +45,7 @@ public class TestCase01 extends BaseTest{
 		boolean status=false;
 		System.out.println("Testcase01 start");
 		//NewCommand
-		//New commant 8/05/2025
+		//New comman
 		status=hp.clickOnRegistarButton();
 		Assert.assertTrue(status,"Unable to click on Register button");
 		status=rp.validateRegisterPage();
